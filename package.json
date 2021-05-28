@@ -1,0 +1,31 @@
+{
+  "name": "mydummycrm",
+  "version": "1.0.0",
+  "description": "Dummy de un CRM para integraciones.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GermanGJ/MyDummyCRM.git"
+  },
+  "keywords": [
+    "Dummy",
+    "CRM"
+  ],
+  "author": "GermanGJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GermanGJ/MyDummyCRM/issues"
+  },
+  "homepage": "https://github.com/GermanGJ/MyDummyCRM#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nanoid": "^3.1.23"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
