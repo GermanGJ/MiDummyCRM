@@ -1,2 +1,2 @@
-# MiDummyCRM
+# MyDummyCRM
 Dummy de un CRM.
